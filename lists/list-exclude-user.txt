@@ -1,0 +1,2 @@
+domain.example.abc
+# mistpugiliststeeple/zapretdiscord a37e96db2eb5
